@@ -157,6 +157,10 @@ ul{
         border-top-right-radius: 0;
     }
 
+    .contact-info ul li{
+        padding-bottom: 0.5em;
+    }
+
     /* Contact Form */
     .contact-form{
         background-color: #e15f41;
